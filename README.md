@@ -21,3 +21,7 @@ Basic Javascript demonstration/tutorial for college
 
 ### To view sample demo:
 - goto `localhost/JS-Tutorial-DJSCE-master/demo/` in your browser
+
+
+
+<center>![img](pic.png)</center>

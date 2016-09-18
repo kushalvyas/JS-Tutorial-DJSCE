@@ -20,4 +20,4 @@ Basic Javascript demonstration/tutorial for college
 
 
 ### To view sample demo:
-- goto `localhost/JS-Tutorial-DJSCE/demo/` in your browser
+- goto `localhost/JS-Tutorial-DJSCE-master/demo/` in your browser

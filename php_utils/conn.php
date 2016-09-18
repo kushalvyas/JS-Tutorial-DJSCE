@@ -1,5 +1,8 @@
 <?php 
-$conn=mysql_connect("127.0.0.1","root","root");  
+
+// username = "root"
+// password = "root"
+$conn= mysqli_connect("localhost","root","root", "djsce");  
 if (!$conn)
 {
     die('Could not connect: ' . mysql_error());

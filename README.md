@@ -24,4 +24,6 @@ Basic Javascript demonstration/tutorial for college
 
 
 
-<center>![img](pic.png)</center>
+<center>
+  <img src="pic.png"/>
+</center>
